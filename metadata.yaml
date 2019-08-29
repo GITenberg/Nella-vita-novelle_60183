@@ -1,5 +1,8 @@
 _repo: Nella-vita-novelle_60183
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 60183-h/images/cover.jpg
 creator:
   author:
     agent_name: Di Giacomo, Salvatore
@@ -12,6 +15,8 @@ creator:
     - https://en.wikipedia.org/wiki/Salvatore_Di_Giacomo
     - https://it.wikipedia.org/wiki/Salvatore_Di_Giacomo
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60183#Nella-vita-novelle
 gutenberg_issued: '2019-08-26'
 gutenberg_type: Text
 identifiers:
